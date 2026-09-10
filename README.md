@@ -1,20 +1,22 @@
-# ihabeu
-이미지 표시
-
 <div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="100%" />
 <img src="https://github.com/ihabeu.png" width="130" /><br/><br/>
 
-<h1>Habin Choi</h1> <p>Statistics · Machine Learning</p> <img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> <img src="https://komarev.com/ghpvc/?username=ihabeu&style=flat-square&color=blueviolet" alt="profile views" /> </div>
-🛠 Tech Stack
+<h1>Habin Choi</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&width=500&lines=Statistics+%C2%B7+Machine+Learning;M.S.+Student+%40+Sookmyung+Women%27s+University;Pitch+Control+Prediction+%7C+Neural+Clustering" alt="Typing SVG" /><br/>
+
+<img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> <img src="https://komarev.com/ghpvc/?username=ihabeu&style=flat-square&color=blueviolet" alt="profile views" />
+
+</div>
+💻 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,r" /><br/><br/> <img src="https://img.shields.io/badge/SAS-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" /> </p>
 🎓 Education
-🎓 Sookmyung Women's University — M.S. in Statistics 2025 – 2026
-🎓 Sookmyung Women's University — B.S. in Statistics 2020 – 2025
-Dankook University — Applied Statistics (transferred) 2019
+2025 – 2026 🎓 Sookmyung Women's University — M.S. in Statistics
+2020 – 2025 🎓 Sookmyung Women's University — B.S. in Statistics
+2019 Dankook University — Applied Statistics (transferred)
 
-📄 Research
+📜 Research
 Title
-M.S. Thesis	SEE-Net 구조를 활용한 신경망 클러스터링 연구
+M.S. Thesis	Neural Network Clustering via SEE-Net Architecture
 Under Review	Linearly Interpretable Neural Clustering via Local Splits
 💼 Experience
 Summer 2023 Undergraduate Research Intern · Hematologic Cancer Survival Analysis
@@ -23,12 +25,13 @@ Quantified transition probabilities and risk factors across recovery, relapse, a
 
 🏅 Awards
 2026 🥉 Honorable Mention · Poster Award | The Korean Statistical Society
+Topic: Interpretable neural clustering via local linear splits
+Role: Presenter · Methods: SEE-Net-based neural network clustering
 
-Presented research on interpretable neural clustering via local linear splits (SEE-Net)
 2025 🥉 Honorable Mention · Smart City Public Data Contest | 용산구청
+Topic: Commercial survival analysis on 2,924 store records
+Role: Team Lead (3-person team) · Methods: Cox PH, ML, text mining, Welch ANOVA, log-rank test
 
-Team lead (3 members); survival analysis on 2,924 commercial records using Cox PH, ML, and text mining
-<details> <summary>📌 More Awards</summary>
 2024 🥈 Excellence Award · Future Job Analysis Hackathon | Sookmyung Women's University
 
 2022 🥉 Honorable Mention · Creative Content Contest | Sookmyung Women's University
@@ -37,20 +40,23 @@ Team lead (3 members); survival analysis on 2,924 commercial records using Cox P
 
 2020 🥇 Grand Prize · 8th Citizenship Fair | Sookmyung Women's University
 
-</details>
-💻 Competitions
-2026 🏅 LG Aimers 9th · KBO Pitch Control | 48th / 1,087 teams · Top 5%
+🏆 Competitions
+2026 LG Aimers 9th · KBO Pitch Control | Top 5%
+Topic: Pitch control probability prediction using 1.47M pitch records (Trackman data)
+Team: 2-person · Role: Feature engineering + modeling (LightGBM + CatBoost ensemble, per-league calibration overlay)
 
-Pitch outcome probability prediction (1.47M records)
-LightGBM + CatBoost ensemble; domain-specific per-league calibration overlay
-2025 🏅 LG Aimers 6th · Infertility Prediction | 43rd / 794 teams · Top 6%
+48th / 1,087 teams · Top 5%
 
-Clinical infertility outcome prediction
-Data preprocessing & feature engineering lead; Optuna hyperparameter tuning, ensemble model
-2025 🎯 AWS × Sookmyung AI Hackathon | Participant
+2025 LG Aimers 6th · Infertility Prediction | Top 6%
+Topic: Clinical infertility outcome prediction
+Team: 5-person · Role: Feature engineering (missing value handling, derived features, Optuna hyperparameter tuning)
 
-Menstrual cycle-based food recommendation app (1-day MVP)
-Cycle-phase nutrition weighting model; collaborated with dev team on chatbot & UI spec
+43rd / 794 teams · Top 6%
+
+2025 AWS × Sookmyung AI Hackathon | Participant
+Topic: Menstrual cycle-based food recommendation app (1-day MVP)
+Role: Nutrition weighting model by cycle phase; collaborated with dev team on chatbot & UI spec
+
 🤝 Activities
 Brand Ambassadors
 
@@ -67,4 +73,3 @@ Jan – Jun 2021	Aither — Japanese Theater Club, PR Team
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihabeu&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabeu&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
 📬 Contact
 <p align="center"> <a href="mailto:gkqls000903@sookmyung.ac.kr"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
-이미지 표시
