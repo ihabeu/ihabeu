@@ -10,7 +10,7 @@
 </div> <div style="text-align: left;"> <h2>🏆 Competitions</h2>
 <code>2026</code> <b>LG Aimers 9th · KBO Pitch Control</b> | Top 5%
 
-<ul> <li>Topic: Pitch control probability prediction using 1.47M pitch records (Trackman data)</li> <li>Team: 2-person · Role: Feature engineering + modeling (LightGBM + CatBoost ensemble, per-league calibration overlay)</li> <li><b>48th / 1,087 teams · Top 5%</b></li> </ul>
+<ul> <li>Topic: Pitch control probability prediction using 1.47M pitch records (Trackman data)</li> <li>Team: 2-person · Role: Feature engineering + modeling (Boost ensemble, per-league calibration overlay)</li> <li><b>48th / 1,087 teams · Top 5%</b></li> </ul>
 <code>2025</code> <b>LG Aimers 6th · Infertility Prediction</b> | Top 6%
 
 <ul> <li>Topic: Clinical infertility outcome prediction</li> <li>Team: 5-person · Role: Feature engineering (missing value handling, derived features, Optuna tuning)</li> <li><b>43rd / 794 teams · Top 6%</b></li> </ul>
