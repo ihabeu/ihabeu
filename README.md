@@ -4,8 +4,6 @@
 <h1>Habin Choi</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&width=500&lines=Statistics+%C2%B7+Machine+Learning;M.S.+Student+%40+Sookmyung+Women%27s+University;Pitch+Control+Prediction+%7C+Neural+Clustering" alt="Typing SVG" /><br/>
 
-<img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> <img src="https://komarev.com/ghpvc/?username=ihabeu&style=flat-square&color=blueviolet" alt="profile views" />
-
 </div>
 💻 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,r" /><br/><br/> <img src="https://img.shields.io/badge/SAS-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" /> </p>
