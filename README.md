@@ -1,10 +1,12 @@
-# ihabe
+# ihabeu
+이미지 표시
+
 <div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="100%" />
 <img src="https://github.com/ihabeu.png" width="130" /><br/><br/>
 
 <h1>Habin Choi</h1> <p>Statistics · Machine Learning</p> <img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> <img src="https://komarev.com/ghpvc/?username=ihabeu&style=flat-square&color=blueviolet" alt="profile views" /> </div>
 🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,tensorflow" /><br/><br/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/SAS-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r" /><br/><br/> <img src="https://img.shields.io/badge/SAS-0066FF?style=flat-square" /> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" /> </p>
 🎓 Education
 🎓 Sookmyung Women's University — M.S. in Statistics 2025 – 2026
 🎓 Sookmyung Women's University — B.S. in Statistics 2020 – 2025
@@ -65,3 +67,4 @@ Jan – Jun 2021	Aither — Japanese Theater Club, PR Team
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihabeu&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabeu&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
 📬 Contact
 <p align="center"> <a href="mailto:gkqls000903@sookmyung.ac.kr"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+이미지 표시
