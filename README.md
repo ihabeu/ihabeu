@@ -1,7 +1,10 @@
-<div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="100%" height="150" /> 
+
+이미지 표시
+
+<div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="100%" height="200" /> <h1>Habin Choi</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&width=500&lines=Statistics+%C2%B7+Machine+Learning;M.S.+Student+%40+Sookmyung+Women%27s+University;Pitch+Control+Prediction+%7C+Neural+Clustering" alt="Typing SVG" /><br/>
 
-<img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> 
+<img src="https://img.shields.io/badge/M.S._Statistics-Sookmyung_Women's_University-8A2BE2?style=flat-square" /><br/><br/> <img src="https://komarev.com/ghpvc/?username=ihabeu&style=flat-square&color=blueviolet" alt="profile views" />
 
 </div>
 💻 Tech Stack
@@ -56,3 +59,5 @@ Jan – Jun 2021	Aither — Japanese Theater Club, PR Team
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihabeu&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihabeu&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
 📬 Contact
 <p align="center"> <a href="mailto:gkqls000903@sookmyung.ac.kr"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> </p>
+이미지 표시
+
