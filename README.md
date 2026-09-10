@@ -1,5 +1,4 @@
-<div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="100%" />
-<img src="https://github.com/ihabeu.png" width="130" /><br/><br/>
+<div align="center"> <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="80%" />
 
 <h1>Habin Choi</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&width=500&lines=Statistics+%C2%B7+Machine+Learning;M.S.+Student+%40+Sookmyung+Women%27s+University;Pitch+Control+Prediction+%7C+Neural+Clustering" alt="Typing SVG" /><br/>
